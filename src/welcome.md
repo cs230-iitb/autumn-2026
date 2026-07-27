@@ -60,7 +60,7 @@ Now, why should you take this course? Well, this course is your first step to th
 
 |   Date    | Lecture Topic | Pre-req |  Lecture Slides  |  Reading Material  |
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
-<!-- |   July 28  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) |  -  | -->
+|   July 27  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) |  -  |
 
 
 
