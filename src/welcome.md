@@ -28,6 +28,15 @@ Head TA:
 <!-- - [Mrityunjay Shukla](https://mrityunjayshukla411.github.io/) (mrityunjay@cse.iitb.ac.in) -->
 - [Enanko Basak] (enankobasak@cse.iitb.ac.in)
 
+Others:
+- [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
+- [Sweta] 
+- [Siddhesh Harshad Shinde] 
+- [Shivam Singh] 
+- [Iqbal Shalabi] 
+- [Harshit Matta] 
+- [Shoaib Ahamed] 
+
 </td>
 </tr>
 </table>
@@ -58,6 +67,7 @@ Now, why should you take this course? Well, this course is your first step to th
 
 ---------
 <br>
+
 
 |   Date    | Lecture Topic | Pre-req |  Lecture Slides  |  Reading Material  |
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
