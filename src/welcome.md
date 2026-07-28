@@ -26,7 +26,7 @@ All original copyrights remain with the respective authors and their institution
 
 Head TA:
 <!-- - [Mrityunjay Shukla](https://mrityunjayshukla411.github.io/) (mrityunjay@cse.iitb.ac.in) -->
-- [Enanko Basak](https://https://www.cse.iitb.ac.in/~enankobasak/) (enankobasak@cse.iitb.ac.in)
+- [Enanko Basak](https://www.cse.iitb.ac.in/~enankobasak/) (enankobasak@cse.iitb.ac.in)
 
 Others:
 - [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
