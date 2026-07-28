@@ -14,7 +14,7 @@
 <td>
 
 * Lecture Slot: 2
-* Lecture Venue: LH 101
+* Lecture Venue: LH 102
 * Lecture Days: Monday(10:35-11:30), Tuesday (10:35-11:30), and Thursday (10:35-11:30)
 * Piazza class: [Link](https://piazza.com/iit_bombay/summer2026/cs230) (Access Code : cs230)
 * Instructor office hours: After class or get an appointment via email
