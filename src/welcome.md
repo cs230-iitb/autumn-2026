@@ -26,7 +26,7 @@ All original copyrights remain with the respective authors and their institution
 
 Head TA:
 <!-- - [Mrityunjay Shukla](https://mrityunjayshukla411.github.io/) (mrityunjay@cse.iitb.ac.in) -->
-- [Enanko Basak] (enankobasak@cse.iitb.ac.in)
+- [Enanko Basak](https://https://www.cse.iitb.ac.in/~enankobasak/) (enankobasak@cse.iitb.ac.in)
 
 Others:
 - [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
@@ -72,6 +72,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Date    | Lecture Topic | Pre-req |  Lecture Slides  |  Reading Material  |
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
 |   July 27  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) |  -  |
+|   July 28  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  -  |
 
 
 
