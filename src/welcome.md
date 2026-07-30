@@ -73,6 +73,7 @@ Now, why should you take this course? Well, this course is your first step to th
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
 |   July 27  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) |  -  |
 |   July 28  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  -  |
+|   July 30  |  [L2] Switching Algebra | - | [pdf](./downloadables/Lec_2_Switching_Algebra.pdf) |  -  |
 
 
 
