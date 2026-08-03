@@ -71,9 +71,10 @@ Now, why should you take this course? Well, this course is your first step to th
 
 |   Date    | Lecture Topic | Pre-req |  Lecture Slides  |  Reading Material  |
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
-|   July 27  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) |  -  |
-|   July 28  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  -  |
-|   July 30  |  [L2] Switching Algebra | - | [pdf](./downloadables/Lec_2_Switching_Algebra.pdf) |  -  |
+|   July 27  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables/Lec_0_Introduction.pdf) | - |
+|   July 28  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 1  |
+|   July 30  |  [L2] Switching Algebra | - | [pdf](./downloadables/Lec_2_Switching_Algebra.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 3  |
+|   August 3  |  [L3] Logic minimization | L2 | [pdf](./downloadables/Lec_3_4_Logic_Minimization.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 
 
 
