@@ -75,6 +75,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   July 28  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 1  |
 |   July 30  |  [L2] Switching Algebra | - | [pdf](./downloadables/Lec_2_Switching_Algebra.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 3  |
 |   August 3  |  [L3] Logic minimization | L2 | [pdf](./downloadables/Lec_3_4_Logic_Minimization.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
+|   August 4  |  [L4] Combinational Circuits  | | [pdf](./downloadables/Lec_4_5_Combinational_Circuits.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 
 
 
