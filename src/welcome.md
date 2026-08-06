@@ -36,6 +36,11 @@ Others:
 - [Iqbal Shalabi] 
 - [Harshit Matta] 
 - [Shoaib Ahamed] 
+- [Deendayal Prajaapat] (26m0815@iitb.ac.in)
+- [Shivam Kulkarni] (26m0777@iitb.ac.in)
+- [Pratyush Gadge] (26m2103@iitb.ac.in)
+- [Jay Patel] (26m2104@iitb.ac.in)
+- [Sourav Ghosh] (26m0769@iitb.ac.in)
 
 </td>
 </tr>
