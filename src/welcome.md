@@ -41,6 +41,7 @@ Others:
 - [Pratyush Gadge] (26m2103@iitb.ac.in)
 - [Jay Patel] (26m2104@iitb.ac.in)
 - [Sourav Ghosh] (26m0769@iitb.ac.in)
+- [Nitin Saini] (26m0786@iitb.ac.in)
 
 </td>
 </tr>
