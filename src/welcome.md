@@ -83,7 +83,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   August 3  |  [L3] Logic minimization | L2 | [pdf](./downloadables/Lec_3_4_Logic_Minimization.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 |   August 4  |  [L4] Combinational Circuits  | | [pdf](./downloadables/Lec_4_5_Combinational_Circuits.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 |   August 7  |  [L5] Combinational Circuits  | | [pdf](./downloadables/Lec_5_Combinational_Circuits.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
-|   August 10  |  [L5] Combinational Circuits  | | [pdf](./downloadables/Lec_6_7_Sequential_Circuits_1.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
+|   August 10  |  [L6] Sequential Circuits  | | [pdf](./downloadables/Lec_6_7_Sequential_Circuits_1.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 
 
 
