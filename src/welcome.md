@@ -88,6 +88,10 @@ Now, why should you take this course? Well, this course is your first step to th
 |   August 13  |  [L8] Sequential Circuits  | | [pdf](./downloadables/Lec_6_7_Sequential_Circuits.pdf) |  Kohavi, Jha - Switching and Finite Automata Theory Chapter 4  |
 |   August 17  |  Tutorial Problems | [pdf](./downloadables/_CS230__2026____Tutorial__1_Master_Sheet-qs.pdf) |  |
 |   August 18  |  Tutorial Solutions | [pdf](./downloadables/CS230_2026_Tutorial_1_Solutions.pdf) |  |
+|   August 18  |  Tutorial Solutions | [pdf](./downloadables/CS230_2026_Tutorial_1_Solutions.pdf) |  |
+|   August 20  |  [L9] ISA-1| | [pdf](./downloadables/Lec_ISA_1.pdf) |  |
+|   August 24  |  [L9] ISA-1| | [pdf](./downloadables/Lec_ISA_2.pdf) |  |
+|   August 24  |  [L9] ISA-1| | [pdf](./downloadables/Lec_ISA_3.pdf) |  |
 
 
 
