@@ -90,9 +90,9 @@ Now, why should you take this course? Well, this course is your first step to th
 |   August 18  |  Tutorial Solutions | [pdf](./downloadables/CS230_2026_Tutorial_1_Solutions.pdf) |  |
 |   August 18  |  Tutorial Solutions | [pdf](./downloadables/CS230_2026_Tutorial_1_Solutions.pdf) |  |
 |   August 20  |  [L9] ISA-1| | [pdf](./downloadables/Lec_ISA_1.pdf) |  |
-|   August 24  |  [L10] ISA-1| | [pdf](./downloadables/Lec_ISA_2.pdf) |  |
-|   August 24  |  [L11] ISA-1| | [pdf](./downloadables/Lec_ISA_3.pdf) |  |
-
+|   August 24  |  [L10] ISA-2| | [pdf](./downloadables/Lec_ISA_2.pdf) |  |
+|   August 24  |  [L11] ISA-3| | [pdf](./downloadables/Lec_ISA_3.pdf) |  |
+|   August 25  |  [L11] ISA-4| | [pdf](./downloadables/Lec_ISA_4.pdf) |  |
 
 
 <!--
