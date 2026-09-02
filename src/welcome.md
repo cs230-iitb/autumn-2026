@@ -94,7 +94,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   August 24  |  [L11] ISA-3| | [pdf](./downloadables/Lec_ISA_3.pdf) |  |
 |   August 25  |  [L11] ISA-4| | [pdf](./downloadables/Lec_ISA_4.pdf) |  |
 |   August 27  |  [L12] ISA-5| | [pdf](./downloadables/Lec_ISA_All.pdf) |  |
-|   September 17  |  [T2] Tutotrial - 2 | | [pdf](./downloadables/_CS230__2026____Tutorial__1b_Master_Sheet.pdf) |  |
+|   September 1  |  [T2] Tutotrial - 2 | | [pdf](./downloadables/_CS230__2026____Tutorial__1b_Master_Sheet.pdf) |  |
 
 
 <!--
