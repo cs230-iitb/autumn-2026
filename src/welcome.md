@@ -26,7 +26,7 @@ All original copyrights remain with the respective authors and their institution
 
 Head TA:
 <!-- - [Mrityunjay Shukla](https://mrityunjayshukla411.github.io/) (mrityunjay@cse.iitb.ac.in) -->
-- [Enanko Basak](https://www.cse.iitb.ac.in/~enankobasak/) (enankobasak@cse.iitb.ac.in)
+- [Shoaib Ahamed]() (24m2102@iitb.ac.in)
 
 Others:
 - [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
@@ -35,7 +35,7 @@ Others:
 - [Shivam Singh] 
 - [Iqbal Shalabi] 
 - [Harshit Matta] 
-- [Shoaib Ahamed] 
+- [Enanko Basak] () 
 - [Deendayal Prajaapat] (26m0815@iitb.ac.in)
 - [Shivam Kulkarni] (26m0777@iitb.ac.in)
 - [Pratyush Gadge] (26m2103@iitb.ac.in)
