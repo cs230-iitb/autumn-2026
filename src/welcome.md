@@ -26,7 +26,7 @@ All original copyrights remain with the respective authors and their institution
 
 Head TA:
 <!-- - [Mrityunjay Shukla](https://mrityunjayshukla411.github.io/) (mrityunjay@cse.iitb.ac.in) -->
-- [Shoaib Ahamed]() (24m2102@iitb.ac.in)
+- [Shoaib Ahamed](24m2102@iitb.ac.in)
 
 Others:
 - [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
@@ -96,7 +96,10 @@ Now, why should you take this course? Well, this course is your first step to th
 |   August 27  |  [L12] ISA-5| | [pdf](./downloadables/Lec_ISA_All.pdf) |  |
 |   September 1  |  [T1B] Tutotrial - 1B | | [pdf](./downloadables/_CS230__2026____Tutorial__1b_Master_Sheet.pdf) |  |
 |   September 3  |  [Q1] Quiz- 1 | | [pdf](./downloadables/CS230_2026_Quiz_1_solution.pdf) |  |
-
+|   September 7  |  [L13] Datapath | | [pdf](./downloadables/Lec_Processor_Datapath.pdf) |  |
+|   September 8  |  [L14] Datapath | | [pdf](./downloadables/Lec_Processor_Datapath.pdf) |  |
+|   September 10  |  [L15] pipeline hazards | | [pdf](./downloadables/Lec_Processor_Datapath_Pipeline_Hazards.pdf) |  |
+|   September 22  |  [L16] pipeline hazards | | [pdf](./downloadables/Lec_Processor_Datapath_Pipeline_Hazards.pdf) |  |
 
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
