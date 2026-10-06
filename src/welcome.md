@@ -30,11 +30,11 @@ Head TA:
 
 Others:
 - [Pushpendra Pal] (pushpa@cse.iitb.ac.in)
-- [Sweta] 
-- [Siddhesh Harshad Shinde] 
-- [Shivam Singh] 
-- [Iqbal Shalabi] 
-- [Harshit Matta] 
+- [Sweta] ()
+- [Siddhesh Harshad Shinde]() 
+- [Shivam Singh] ()
+- [Iqbal Shalabi] ()
+- [Harshit Matta] ()
 - [Enanko Basak] () 
 - [Deendayal Prajaapat] (26m0815@iitb.ac.in)
 - [Shivam Kulkarni] (26m0777@iitb.ac.in)
@@ -99,6 +99,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   September 7  |  [L13] Datapath | | [pdf](./downloadables/Lec_Processor_Datapath.pdf) |  |
 |   September 8  |  [L14] Datapath | | [pdf](./downloadables/Lec_Processor_Datapath.pdf) |  |
 |   September 10  |  [L15] pipeline hazards | | [pdf](./downloadables/Lec_Processor_Datapath_Pipeline_Hazards.pdf) |  |
+|   September 13  |  [MS] Midsemester  | | [pdf](./downloadables/CS230_2026_Mid_Sem.pdf) |  |
 |   September 22  |  [L16] pipeline hazards | | [pdf](./downloadables/Lec_Processor_Datapath_Pipeline_Hazards.pdf) |  |
 
 <!--
