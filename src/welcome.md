@@ -102,7 +102,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   September 13  |  [MS] Midsemester  | | [pdf](./downloadables/CS230_2026_Mid_Sem.pdf) |  |
 |   September 22  |  [L16] pipeline hazards | | [pdf](./downloadables/Lec_Processor_Datapath_Pipeline_Hazards.pdf) |  |
 |   October 12  |  [L17] Cache | | [pdf](./downloadables/Cache.pdf) |  |
-|   October 13  |  [T3] Cache | | [pdf](./downloadables/CS230_Tut_cache.pdf) |  |
+|   October 13  |  [QS] Cache | | [pdf](./downloadables/Cache_practice_qs.pdf) |  |
 
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
