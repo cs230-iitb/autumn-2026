@@ -104,6 +104,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   October 12  |  [L17] Cache | | [pdf](./downloadables/Cache.pdf) |  |
 |   October 13  |  [QS] Cache | | [pdf](./downloadables/Cache_practice_qs.pdf) |  |
 |   October 15  |  [L18] DRAM | | [pdf](./downloadables/Lec_DRAM.pdf) |  |
+|   October 27  |  Tutorial | | [pdf](./downloadables/_CS230__2026____Tutorial__3_Master_Sheet.pdf) |  |
 
 
 <!--
